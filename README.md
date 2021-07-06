@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Pensiri Kusalaporn and I'm a laravel developer. I'm from Thailand living in Bangkok, currenty working on freelend job. 
+- 👋 Hi, My name is Pensiri Kusalaporn and I'm a Laravel Developer. I'm from Thailand living in Bangkok and currenty working as a freelance developer. I'm interested in learning more about React and data analysis. 
 - 📫 You can find me on https://www.linkedin.com/in/pensirik/
 
 <!---
